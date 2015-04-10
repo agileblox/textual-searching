@@ -7,6 +7,6 @@ The main goal is:
  - provide a good way to consume this information through an intuitive Controller.
  
 
-P.S. I know that maybe it isn't a silver bullet application (and I'm sure that it even has a lot of functionality), however, the desire here is to practice some Java coding - not building a space shuttle.
+P.S. I know that maybe it isn't a silver bullet application (and I'm sure that it doesn't even has a lot of functionality), however, the desire here is to practice some Java coding - not building a space shuttle.
 
-Lets relax, code and have fun!
+Lets relax, coding and have fun!
